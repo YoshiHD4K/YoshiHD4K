@@ -65,36 +65,44 @@
   <h3>💻 Proyectos 💻</h3>
   <br>
   <p>Clickea en el logo para ver mas sobre el proyecto o en el nombre para ver el repositorio</p>
-  <div style="width:100%; display:flex; justify-content:center;">
-    <div style="display:flex; flex-wrap:wrap; gap:16px; max-width:900px; justify-content:space-between;">
-      <!-- Item 1 -->
-      <div style="flex:0 1 calc(50% - 8px); box-sizing:border-box; border:1px dashed #e1e4e8; border-radius:8px; padding:16px; text-align:center; background:transparent;">
-        <a href="#" target="_blank">
-          <img src="assets/logo-proyecto-1.png" alt="Logo Proyecto CRH" style="max-width:100%; max-height:120px; object-fit:contain; margin-bottom:8px;" />
-        </a>
-        <div style="font-weight:600; font-size:14px; color:#fff;"><a href="https://github.com/YoshiHD4K/CRH" target="_blank" style="color:inherit; text-decoration:none;">Control y Registro de Horas</a></div>
-      </div>
-      <!-- Item 2 -->
-      <div style="flex:0 1 calc(50% - 8px); box-sizing:border-box; border:1px dashed #e1e4e8; border-radius:8px; padding:16px; text-align:center; background:transparent;">
-        <a href="#" target="_blank">
-          <img src="assets/logo-proyecto-2.png" alt="Logo Invitaciones 15 Años" style="max-width:100%; max-height:120px; object-fit:contain; margin-bottom:8px;" />
-        </a>
-        <div style="font-weight:600; font-size:14px; color:#fff;"><a href="https://github.com/YoshiHD4K/15Arianna" target="_blank" style="color:inherit; text-decoration:none;">Invitaciones 15 Años</a></div>
-      </div>
-      <!-- Item 3 -->
-      <div style="flex:0 1 calc(50% - 8px); box-sizing:border-box; border:1px dashed #e1e4e8; border-radius:8px; padding:16px; text-align:center; background:transparent;">
-        <a href="https://galaxia-romantica.vercel.app/" target="_blank">
-          <img src="assets/logo-proyecto-3.png" alt="Logo Sistema Solar" style="max-width:100%; max-height:120px; object-fit:contain; margin-bottom:8px;" />
-        </a>
-        <div style="font-weight:600; font-size:14px; color:#fff;"><a href="https://github.com/YoshiHD4K/galaxia-romantica" target="_blank" style="color:inherit; text-decoration:none;">Sistema Solar</a></div>
-      </div>
-      <!-- Item 4 -->
-      <div style="flex:0 1 calc(50% - 8px); box-sizing:border-box; border:1px dashed #e1e4e8; border-radius:8px; padding:16px; text-align:center; background:transparent;">
-        <a href="https://aguacachat.vercel.app/" target="_blank">
-          <img src="assets/logo-proyecto-4.png" alt="Logo AguacateChat" style="max-width:100%; max-height:120px; object-fit:contain; margin-bottom:8px;" />
-        </a>
-        <div style="font-weight:600; font-size:14px; color:#fff;"><a href="https://github.com/Marivigg04/aguacatechat" target="_blank" style="color:inherit; text-decoration:none;">AguacateChat</a></div>
-      </div>
-    </div>
+  <div align="center">
+    <table border="0">
+      <tr>
+        <td width="50%" align="center">
+          <a href="#" target="_blank">
+            <img src="assets/logo-proyecto-1.png" alt="Logo Proyecto CRH" height="120" />
+          </a>
+          <br>
+          <br>
+          <a href="https://github.com/YoshiHD4K/CRH" target="_blank"><b>Control y Registro de Horas</b></a>
+        </td>
+        <td width="50%" align="center">
+          <a href="#" target="_blank">
+            <img src="assets/logo-proyecto-2.png" alt="Logo Invitaciones 15 Años" height="120" />
+          </a>
+          <br>
+          <br>
+          <a href="https://github.com/YoshiHD4K/15Arianna" target="_blank"><b>Invitaciones 15 Años</b></a>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" align="center">
+          <a href="https://galaxia-romantica.vercel.app/" target="_blank">
+            <img src="assets/logo-proyecto-3.png" alt="Logo Sistema Solar" height="120" />
+          </a>
+          <br>
+          <br>
+          <a href="https://github.com/YoshiHD4K/galaxia-romantica" target="_blank"><b>Sistema Solar</b></a>
+        </td>
+        <td width="50%" align="center">
+          <a href="https://aguacachat.vercel.app/" target="_blank">
+            <img src="assets/logo-proyecto-4.png" alt="Logo AguacateChat" height="120" />
+          </a>
+          <br>
+          <br>
+          <a href="https://github.com/Marivigg04/aguacatechat" target="_blank"><b>AguacateChat</b></a>
+        </td>
+      </tr>
+    </table>
   </div>
 </div>
