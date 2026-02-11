@@ -66,41 +66,49 @@
   <br>
   <p>Clickea en el logo para ver mas sobre el proyecto o en el nombre para ver el repositorio</p>
   <div align="center">
-    <table border="0">
+    <table>
       <tr>
-        <td width="50%" align="center">
+        <td width="50%" align="center" valign="top">
           <a href="#" target="_blank">
-            <img src="assets/logo-proyecto-1.png" alt="Logo Proyecto CRH" height="120" />
+            <img src="assets/logo-proyecto-1.png" alt="Logo Proyecto CRH" height="120" style="border-radius: 10px;" />
           </a>
           <br>
-          <br>
-          <a href="https://github.com/YoshiHD4K/CRH" target="_blank"><b>Control y Registro de Horas</b></a>
+          <a href="https://github.com/YoshiHD4K/CRH" target="_blank"><h3 align="center">Control y Registro de Horas</h3></a>
+          <p align="center">
+            <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="30" alt="Tech Stack" />
+          </p>
         </td>
-        <td width="50%" align="center">
+        <td width="50%" align="center" valign="top">
           <a href="#" target="_blank">
-            <img src="assets/logo-proyecto-2.png" alt="Logo Invitaciones 15 Años" height="120" />
+            <img src="assets/logo-proyecto-2.png" alt="Logo Invitaciones 15 Años" height="120" style="border-radius: 10px;" />
           </a>
           <br>
-          <br>
-          <a href="https://github.com/YoshiHD4K/15Arianna" target="_blank"><b>Invitaciones 15 Años</b></a>
+          <a href="https://github.com/YoshiHD4K/15Arianna" target="_blank"><h3 align="center">Invitaciones 15 Años</h3></a>
+          <p align="center">
+            <img src="https://skillicons.dev/icons?i=html,css,js" height="30" alt="Tech Stack" />
+          </p>
         </td>
       </tr>
       <tr>
-        <td width="50%" align="center">
+        <td width="50%" align="center" valign="top">
           <a href="https://galaxia-romantica.vercel.app/" target="_blank">
-            <img src="assets/logo-proyecto-3.png" alt="Logo Sistema Solar" height="120" />
+            <img src="assets/logo-proyecto-3.png" alt="Logo Sistema Solar" height="120" style="border-radius: 10px;" />
           </a>
           <br>
-          <br>
-          <a href="https://github.com/YoshiHD4K/galaxia-romantica" target="_blank"><b>Sistema Solar</b></a>
+          <a href="https://github.com/YoshiHD4K/galaxia-romantica" target="_blank"><h3 align="center">Sistema Solar</h3></a>
+          <p align="center">
+            <img src="https://skillicons.dev/icons?i=threejs,react,js" height="30" alt="Tech Stack" />
+          </p>
         </td>
-        <td width="50%" align="center">
+        <td width="50%" align="center" valign="top">
           <a href="https://aguacachat.vercel.app/" target="_blank">
-            <img src="assets/logo-proyecto-4.png" alt="Logo AguacateChat" height="120" />
+            <img src="assets/logo-proyecto-4.png" alt="Logo AguacateChat" height="120" style="border-radius: 10px;" />
           </a>
           <br>
-          <br>
-          <a href="https://github.com/Marivigg04/aguacatechat" target="_blank"><b>AguacateChat</b></a>
+          <a href="https://github.com/Marivigg04/aguacatechat" target="_blank"><h3 align="center">AguacateChat</h3></a>
+          <p align="center">
+            <img src="https://skillicons.dev/icons?i=react,supabase" height="30" alt="Tech Stack" />
+          </p>
         </td>
       </tr>
     </table>
